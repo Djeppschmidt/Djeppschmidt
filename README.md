@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djeppschmidt aka Dietrich Epp Schmidt
 - 🔬 I use genetics to study microbes in soils / I do bioinformatics
-- 🌱 I’m currently learning how to formalize my machine learning into reproducible analysis pipelines
+- 🌱 I’m currently building shiny apps to make environmental data and modeling more accessible
 - 💻 🧰 I’m looking to collaborate on soil-related sequence analysis problems 
 - 📫 deppschm at terpmail dot umd dot edu
 
