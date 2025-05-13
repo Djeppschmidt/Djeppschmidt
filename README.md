@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Djeppschmidt aka Dietrich Epp Schmidt
-- 🔬 Computational biologist, soil ecology
+- 🔬 Computational biologist, data scientist, and soil ecologist
 - 🌱 I’m currently building shiny apps to make environmental data and modeling more accessible
 - 💻 🧰 I’m looking to work on shiny apps
-- 📫 deppschm at terpmail dot umd dot edu
+- 📫 djeppschmidt at gmail dot com
 
 <!---
 Djeppschmidt/Djeppschmidt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
